@@ -76,7 +76,7 @@ const Details: React.SFC<DetailsProps> = ({links, info}) => {
 };
 
 const styles = StyleSheet.create({
-  card: {},
+  card: {width: '100%', marginTop: -5},
   container: {
     paddingHorizontal: '5%',
     flex: 1,
