@@ -110,7 +110,7 @@ const Home: React.SFC<HomeProps> = ({
           );
         }}
         onPress={getVideo}>
-        {disabled ? '' : 'Generate Download Link'}
+        {disabled ? '' : 'Generate Download'}
       </Button>
     </View>
   );
