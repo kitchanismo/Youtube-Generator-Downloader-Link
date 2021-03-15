@@ -16,6 +16,6 @@ An android app that generate download link for video and audio in youtube.
 ## Screenshots
 
 <div align="center">
-<img src="screenshots/pic1.jpg"/>
-<img src="screenshots/pic2.jpg"/>
+<img src="screenshots/1.jpg"/>
+<img src="screenshots/2.jpg"/>
 </div>
